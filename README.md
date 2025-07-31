@@ -15,5 +15,5 @@ A Command Line Interface (CLI) based **Personal Finance Manager** built with **P
 
 ---
 
-## 📁 Folder Structure
+
 
